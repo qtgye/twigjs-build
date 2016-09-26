@@ -5,3 +5,4 @@ A build repository for [TwigJS](https://github.com/twigjs/twig.js)
 *As stated from the twigjs [wiki](https://github.com/twigjs/twig.js/wiki#download):*
 >The files twig.js and twig.min.js may not be up-to-date (they will be rebuilt when releasing a new version). Run make (or make -B to force building) to create these files.
 
+This repository provides the build files needed for installations like bower.
