@@ -1,0 +1,17 @@
+{
+  "name": "twigjs-build",
+  "version": "1.0.0",
+  "description": "Just a clone of the twigjs/twigjs project, but with provided build files for use in bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twigjs",
+    "template",
+    "frontend",
+    "bower"
+  ],
+  "author": "qtgye <buquia.jace@gmail.com>",
+  "license": "ISC"
+}
